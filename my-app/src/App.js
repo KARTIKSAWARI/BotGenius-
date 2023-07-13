@@ -11,12 +11,7 @@ function App() {
    
     <div className='App'>
       <Features/>
-     
-     
      </div>
-      
-  
   );
 }
-
 export default App;
